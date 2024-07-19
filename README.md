@@ -9,6 +9,8 @@
 ## Overview of the project 
 
 ### Project: E-COMMERCE WEBSITE
+![WhatsApp Image 2024-07-18 at 11 16 31 PM](https://github.com/user-attachments/assets/cf5568e7-9e3e-4b1f-bbe5-950df0f6f21f)
+
 
 ###Objective
 The objective of this project is to perform a secure, scalable and user friendly e-commerce website that enhances customer satisfaction and drives sales.
